@@ -7,7 +7,7 @@ export default function Characters(props) {
 
   return (
     <div className="characters">
-        <h1>Personaje</h1>
+        <h1>Personajes uwu</h1>
         <span className="back-home" onClick={resetCharacters}>Volver a la home</span>
         <div className="container-characters">
             {characters.map((character, index) => (
